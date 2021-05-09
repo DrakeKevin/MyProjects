@@ -1,0 +1,13 @@
+:root {
+    --dark-color: #000;
+    --light-color: #fff;
+    --halfgray-color: #ddd;
+    --box-shadow: 5px 10px 5px rgba(0,0,0,1.8);
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
